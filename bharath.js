@@ -1,4 +1,5 @@
 const a = {
     name:"bharath",
-    age : 43,
+    age : 21,
+    dob : "22/07/2005",
 }
